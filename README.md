@@ -1,3 +1,3 @@
 # Destinations de voyage
 
-Une application simple pour garder une trace des destinations que je voudrais visiter.
+Un train du séjour du voyage de Al
